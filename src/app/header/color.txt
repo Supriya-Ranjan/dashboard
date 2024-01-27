@@ -1,0 +1,5 @@
+#F79F79 light pink
+#5B5941 green
+#F7D08A sunset
+#E3F09B light yellow
+#87B6A7 light blue

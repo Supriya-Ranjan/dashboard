@@ -1,0 +1,47 @@
+nav{
+    background-color: #F79F79;
+    color: #5B5941;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 20;
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+}
+a i{
+    font-size: 1.5rem;
+    color: #5B5941;
+}
+a i:hover{
+    color: #F7D08A;
+    transform: scale(1.05);
+    transition: all .3s ease-in-out;
+    text-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+}
+.logo{
+    width: 15vw;
+    height: 9.5vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.menu{
+    width: 30vw;
+    height: 9.5vh;
+    margin-right: 2%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
